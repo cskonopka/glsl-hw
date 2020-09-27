@@ -11,4 +11,4 @@ Motivating friends to collaborate by learning OpenGL Shaders together
 - ["thehandlemalfunctionedOnYourBackWatchingThePropeller"](http://glslsandbox.com/e#67435.1) 
 - ["thefallingtwinePushedByBlinds"](http://glslsandbox.com/e#67721.1)
 - ["blueeye4PanelJunction"](http://glslsandbox.com/e#67914.1)
-- ["experiencingThePaperCut"] (http://glslsandbox.com/e#67915.1)
+- ["experiencingThePaperCut"](http://glslsandbox.com/e#67915.1)
