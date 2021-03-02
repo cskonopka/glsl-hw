@@ -12,3 +12,4 @@ Motivating friends to collaborate by learning OpenGL Shaders together
 - ["thefallingtwinePushedByBlinds"](http://glslsandbox.com/e#67721.1)
 - ["blueeye4PanelJunction"](http://glslsandbox.com/e#67914.1)
 - ["experiencingThePaperCut"](http://glslsandbox.com/e#67915.1)
+- ["interwovenrelationshipsOfStressAndIntuition"](http://glslsandbox.com/e#71696.1)
