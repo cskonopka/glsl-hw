@@ -1,6 +1,6 @@
 // author --> cskonopka
 // title ---> "experiencingThePaperCut"
-// format --> GLSL Sandbox
+// format --> Fragment Shader
 // link ----> http://glslsandbox.com/e#67915.1
 
 #ifdef GL_ES

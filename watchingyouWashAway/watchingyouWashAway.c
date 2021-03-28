@@ -2,7 +2,6 @@
 // title ---> "watchingyouWashAway.c"
 // format --> C
 
-
 #ifdef GL_ES
 precision mediump float;
 #endif

@@ -1,6 +1,7 @@
 // author --> cskonopka
 // title ---> "experiencingThePaperCut"
 // format --> C
+// link ----> http://glslsandbox.com/e#67915.1
 
 #ifdef GL_ES
 precision mediump float;
